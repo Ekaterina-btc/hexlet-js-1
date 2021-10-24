@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/Ekaterina-btc/hexlet-js-1#readme",
   "devDependencies": {
+    "eslint": "^8.1.0",
     "prettier": "^2.4.1"
   }
 }
